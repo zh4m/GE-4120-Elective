@@ -1,1 +1,1 @@
-# GE-4120-Elective
+# GE-4120-ELECTIVE
