@@ -9,9 +9,9 @@ This is a collection of my creations.
 
 ## Laboratory Activities
 
-- [Project 1](#Project 1)
-- [Project 2](#Project 2)
-- [Project 3](Project 3)
+- [Project 1]
+- [Project 2]
+- [Project 3]
 
 ---
 *Thank you for checking out my repository!*
