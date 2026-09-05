@@ -3,7 +3,7 @@ Name: Zhameer Usman A. Abas IV
 
 Year & Course: 4th Year - Bachelor of Science in Nursing
 
-Hello and welcome to the collection of my laboratory activities and projects. This contains my creations for GE 4120 Elective.
+Hello and welcome to the collection of my laboratory activities and projects. This contains my work and creations for GE 4120 Elective.
 
 ## Laboratory Activities
 
