@@ -1,5 +1,3 @@
-[ACTIVITY 2_ABAS.zip](https://github.com/user-attachments/files/31856030/ACTIVITY.2_ABAS.zip)# GE-4120-ELECTIVE
-
 ## Introduction
 Name: Zhameer Usman A. Abas IV
 
