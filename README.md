@@ -9,9 +9,8 @@ This is a collection of my creations.
 
 ## Laboratory Activities
 
-- **Project 1:** [short title]
-- **Project 2:** [short title]
-- **Project 3:** [short title]
+- [Project 1]([Activity 2 - Personal Branding.pdf](https://github.com/user-attachments/files/31856005/Activity.2.-.Personal.Branding.pdf)
+
 
 ---
 *Thank you for checking out my repository!*
