@@ -7,9 +7,9 @@ This is a collection of my creations.
 
 ## Laboratory Activities
 
-- [Project 1]
-- [Project 2]
-- [Project 3]
+- **Activity 1:** [Presentation Design Pricinples]
+- **Activity 2:** [Personal Branding]
+- **Activity 3:** [Social Media Infographics & Project Documentation]
 
 ---
 *Thank you for checking out my repository!*
