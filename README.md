@@ -7,7 +7,7 @@ Hello and welcome to the collection of my laboratory activities and projects. Th
 
 ## Laboratory Activities
 
-- **Activity 1:** Presentation Design Pricinples
+- **Activity 1:** Presentation Design Principles
 - **Activity 2:** Personal Branding
 - **Activity 3:** Social Media Infographics & Project Documentation
 
