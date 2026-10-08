@@ -10,6 +10,6 @@ Hello and welcome to the collection of my laboratory activities and projects. Th
 - **Activity 1:** Presentation Design Principles
 - **Activity 2:** Personal Branding
 - **Activity 3:** Social Media Infographics & Project Documentation
-
+- **Activity 4:** Group Presentation
 ---
 *Thank you for checking out my repository!*
