@@ -1,16 +1,16 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,55:1e40af,100:38bdf8&text=GE%204120%20Elective&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=21st%20Century%20IT%20Skills%20%E2%80%A2%20Portfolio&descAlignY=58&descSize=19&animation=fadeIn" width="100%" alt="GE 4120 Elective" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:000000,55:2b2b2b,100:5a5a5a&text=GE%204120%20Elective&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=21st%20Century%20IT%20Skills%20%E2%80%A2%20Portfolio&descAlignY=58&descSize=19&animation=fadeIn" width="100%" alt="GE 4120 Elective" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1300&color=38BDF8&center=true&vCenter=true&width=560&lines=Laboratory+Activities+%26+Projects;Zhameer+Usman+A.+Abas+IV;BS+Nursing+%E2%80%A2+4th+Year;Ateneo+de+Davao+University" alt="Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1300&color=888888&center=true&vCenter=true&width=560&lines=Laboratory+Activities+%26+Projects;Zhameer+Usman+A.+Abas+IV;BS+Nursing+%E2%80%A2+4th+Year;Ateneo+de+Davao+University" alt="Intro" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Course-GE%204120-1e40af?style=for-the-badge&labelColor=0f172a" alt="Course" />
-  <img src="https://img.shields.io/badge/Activities-4-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Activities" />
-  <img src="https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge&labelColor=0f172a" alt="Status" />
+  <img src="https://img.shields.io/badge/Course-GE%204120-ffffff?style=for-the-badge&labelColor=000000" alt="Course" />
+  <img src="https://img.shields.io/badge/Activities-4-ffffff?style=for-the-badge&labelColor=000000" alt="Activities" />
+  <img src="https://img.shields.io/badge/Status-Complete-ffffff?style=for-the-badge&labelColor=000000" alt="Status" />
 </p>
 
 <br/>
@@ -42,10 +42,10 @@
 
 | | Activity | Topic | Format | |
 |:---:|:---|:---|:---:|:---:|
-| <img src="https://img.shields.io/badge/01-1e40af?style=flat-square" /> | **Presentation Design Principles** | Free Coffee Tuesday poster | `PNG` | [View](Activity%201) |
-| <img src="https://img.shields.io/badge/02-1e40af?style=flat-square" /> | **Personal Branding** | Brand identity kit | `ZIP` | [View](Activity%202) |
-| <img src="https://img.shields.io/badge/03-1e40af?style=flat-square" /> | **Infographic & Documentation** | Doom Scroll | `PNG` `PDF` | [View](Activity%203) |
-| <img src="https://img.shields.io/badge/04-1e40af?style=flat-square" /> | **Group Presentation** | Google Sheets | `PDF` | [View](Activity%204) |
+| <img src="https://img.shields.io/badge/01-000000?style=flat-square" /> | **Presentation Design Principles** | Free Coffee Tuesday poster | `PNG` | [View](Activity%201) |
+| <img src="https://img.shields.io/badge/02-000000?style=flat-square" /> | **Personal Branding** | Brand identity kit | `ZIP` | [View](Activity%202) |
+| <img src="https://img.shields.io/badge/03-000000?style=flat-square" /> | **Infographic & Documentation** | Doom Scroll | `PNG` `PDF` | [View](Activity%203) |
+| <img src="https://img.shields.io/badge/04-000000?style=flat-square" /> | **Group Presentation** | Google Sheets | `PDF` | [View](Activity%204) |
 
 </div>
 
@@ -70,7 +70,7 @@
         <li>Hand drawn illustrations for a friendly feel</li>
         <li>Key details placed where the eye lands</li>
       </ul>
-      <a href="Activity%201"><img src="https://img.shields.io/badge/Open%20Activity%2001-1e40af?style=for-the-badge" alt="Open" /></a>
+      <a href="Activity%201"><img src="https://img.shields.io/badge/Open%20Activity%2001-000000?style=for-the-badge" alt="Open" /></a>
     </td>
   </tr>
 </table>
@@ -92,7 +92,7 @@ A complete brand identity kit: logo, tagline, color palette, typography system a
 </table>
 
 <p align="center">
-  <a href="Activity%202"><img src="https://img.shields.io/badge/Open%20Activity%2002-1e40af?style=for-the-badge" alt="Open" /></a>
+  <a href="Activity%202"><img src="https://img.shields.io/badge/Open%20Activity%2002-000000?style=for-the-badge" alt="Open" /></a>
 </p>
 
 <br/>
@@ -116,7 +116,7 @@ A complete brand identity kit: logo, tagline, color palette, typography system a
       </ul>
       Comes with a <b>Project Documentation</b> PDF showing the process behind the design.
       <br/><br/>
-      <a href="Activity%203"><img src="https://img.shields.io/badge/Open%20Activity%2003-1e40af?style=for-the-badge" alt="Open" /></a>
+      <a href="Activity%203"><img src="https://img.shields.io/badge/Open%20Activity%2003-000000?style=for-the-badge" alt="Open" /></a>
     </td>
     <td width="42%" align="center">
       <img src="assets/activity3.jpg" width="100%" alt="Doom Scroll infographic" />
@@ -143,7 +143,7 @@ An interactive 25 slide presentation with clickable navigation across Home, Desi
 
 <br/><br/>
 
-<a href="Activity%204"><img src="https://img.shields.io/badge/Open%20Activity%2004-1e40af?style=for-the-badge" alt="Open" /></a>
+<a href="Activity%204"><img src="https://img.shields.io/badge/Open%20Activity%2004-000000?style=for-the-badge" alt="Open" /></a>
 
 </div>
 
@@ -167,12 +167,12 @@ GE-4120-Elective/
 <!-- FOOTER -->
 <div align="center">
 
-**Thank you for checking out my repository!** 💙
+**Thank you for checking out my repository!** 🖤
 
-<a href="https://github.com/zh4m"><img src="https://img.shields.io/badge/GitHub-zh4m-0f172a?style=flat-square&logo=github" alt="GitHub" /></a>
+<a href="https://github.com/zh4m"><img src="https://img.shields.io/badge/GitHub-zh4m-000000?style=flat-square&logo=github" alt="GitHub" /></a>
 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,45:1e40af,100:0f172a&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:5a5a5a,45:2b2b2b,100:000000&section=footer" width="100%" alt="" />
 </p>
