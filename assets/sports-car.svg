@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+  <style>
+    .drive { animation: drive 5s linear infinite; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 0.35s linear infinite; }
+    .road { animation: road 0.6s linear infinite; }
+    .wind { animation: wind 0.5s linear infinite; }
+    @keyframes drive { from { transform: translateX(-560px); } to { transform: translateX(960px); } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes road { from { transform: translateX(0); } to { transform: translateX(-60px); } }
+    @keyframes wind { 0% { opacity: 0.9; } 100% { opacity: 0.15; } }
+  </style>
+
+  <!-- panel -->
+  <rect x="0" y="0" width="900" height="200" rx="18" fill="#000"/>
+
+  <!-- road -->
+  <rect x="0" y="176" width="900" height="2" fill="#3a3a3a"/>
+  <g class="road">
+    <g fill="#5a5a5a">
+      <rect x="0" y="188" width="30" height="3"/><rect x="60" y="188" width="30" height="3"/>
+      <rect x="120" y="188" width="30" height="3"/><rect x="180" y="188" width="30" height="3"/>
+      <rect x="240" y="188" width="30" height="3"/><rect x="300" y="188" width="30" height="3"/>
+      <rect x="360" y="188" width="30" height="3"/><rect x="420" y="188" width="30" height="3"/>
+      <rect x="480" y="188" width="30" height="3"/><rect x="540" y="188" width="30" height="3"/>
+      <rect x="600" y="188" width="30" height="3"/><rect x="660" y="188" width="30" height="3"/>
+      <rect x="720" y="188" width="30" height="3"/><rect x="780" y="188" width="30" height="3"/>
+      <rect x="840" y="188" width="30" height="3"/><rect x="900" y="188" width="30" height="3"/>
+    </g>
+  </g>
+
+  <!-- car -->
+  <g class="drive">
+    <g transform="translate(0,50) scale(1.4)">
+      <!-- speed lines -->
+      <g class="wind" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round">
+        <line x1="-70" y1="30" x2="-10" y2="30"/>
+        <line x1="-95" y1="45" x2="-20" y2="45"/>
+        <line x1="-60" y1="60" x2="-12" y2="60"/>
+      </g>
+
+      <!-- shadow -->
+      <ellipse cx="183" cy="72" rx="175" ry="5" fill="#1c1c1c"/>
+
+      <!-- body -->
+      <path fill="#f2f2f2" d="
+        M8,66 L9,52 Q12,44 32,42 L104,38
+        Q150,22 188,20 L216,20 Q244,23 272,38
+        L340,45 Q362,48 366,58 L362,66
+        L318,66 A27 27 0 0 0 264,66
+        L103,66 A27 27 0 0 0 49,66 Z"/>
+
+      <!-- spoiler -->
+      <path fill="#f2f2f2" d="M14,40 L46,36 L48,30 L12,33 Z"/>
+      <rect x="28" y="36" width="4" height="7" fill="#f2f2f2"/>
+
+      <!-- windows -->
+      <path fill="#2b2b2b" d="M118,38 Q152,25 186,23 L200,23 L201,39 Z"/>
+      <path fill="#2b2b2b" d="M207,23 L215,23 Q238,25 258,37 L207,39 Z"/>
+
+      <!-- body line and details -->
+      <path d="M50,52 L310,48" stroke="#9a9a9a" stroke-width="1.5" fill="none"/>
+      <path d="M203,41 L203,62" stroke="#9a9a9a" stroke-width="1.2" fill="none"/>
+      <rect x="350" y="49" width="13" height="4" rx="2" fill="#8a8a8a"/>
+      <rect x="8" y="46" width="8" height="5" rx="1.5" fill="#6a6a6a"/>
+      <rect x="160" y="52" width="16" height="2" rx="1" fill="#9a9a9a"/>
+
+      <!-- wheels -->
+      <g>
+        <circle cx="76" cy="66" r="22" fill="#111" stroke="#cfcfcf" stroke-width="3"/>
+        <g class="spin">
+          <circle cx="76" cy="66" r="13" fill="#7a7a7a"/>
+          <g stroke="#e8e8e8" stroke-width="3" stroke-linecap="round">
+            <line x1="76" y1="55" x2="76" y2="77"/>
+            <line x1="65" y1="66" x2="87" y2="66"/>
+            <line x1="68" y1="58" x2="84" y2="74"/>
+            <line x1="84" y1="58" x2="68" y2="74"/>
+          </g>
+          <circle cx="76" cy="66" r="3.5" fill="#111"/>
+        </g>
+      </g>
+      <g>
+        <circle cx="291" cy="66" r="22" fill="#111" stroke="#cfcfcf" stroke-width="3"/>
+        <g class="spin">
+          <circle cx="291" cy="66" r="13" fill="#7a7a7a"/>
+          <g stroke="#e8e8e8" stroke-width="3" stroke-linecap="round">
+            <line x1="291" y1="55" x2="291" y2="77"/>
+            <line x1="280" y1="66" x2="302" y2="66"/>
+            <line x1="283" y1="58" x2="299" y2="74"/>
+            <line x1="299" y1="58" x2="283" y2="74"/>
+          </g>
+          <circle cx="291" cy="66" r="3.5" fill="#111"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
