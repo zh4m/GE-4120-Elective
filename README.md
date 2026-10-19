@@ -1,137 +1,156 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0e1318,100:ff3131&text=ZHAMEER%20ABAS&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=GE%204120%20Elective%20%E2%80%A2%2021st%20Century%20IT%20Skills&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,55:1e40af,100:38bdf8&text=GE%204120%20Elective&fontColor=ffffff&fontSize=58&fontAlignY=36&desc=21st%20Century%20IT%20Skills%20%E2%80%A2%20Portfolio&descAlignY=58&descSize=19&animation=fadeIn" width="100%" alt="GE 4120 Elective" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=30&pause=1200&color=FF3131&center=true&vCenter=true&width=520&lines=CREATE+%E2%80%A2+DESIGN+%E2%80%A2+REPEAT;LABORATORY+ACTIVITIES+%26+PROJECTS" alt="Create, Design, Repeat" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1300&color=38BDF8&center=true&vCenter=true&width=560&lines=Laboratory+Activities+%26+Projects;Zhameer+Usman+A.+Abas+IV;BS+Nursing+%E2%80%A2+4th+Year;Ateneo+de+Davao+University" alt="Intro" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BS%20NURSING-4TH%20YEAR-0e1318?style=for-the-badge&labelColor=ff3131" alt="BSN 4th Year" />
-  <img src="https://img.shields.io/badge/ATENEO%20DE%20DAVAO-UNIVERSITY-34383c?style=for-the-badge&labelColor=0e1318" alt="Ateneo de Davao University" />
-  <img src="https://img.shields.io/badge/ACTIVITIES-4-ff3131?style=for-the-badge&labelColor=34383c" alt="4 Activities" />
+  <img src="https://img.shields.io/badge/Course-GE%204120-1e40af?style=for-the-badge&labelColor=0f172a" alt="Course" />
+  <img src="https://img.shields.io/badge/Activities-4-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Activities" />
+  <img src="https://img.shields.io/badge/Status-Complete-22c55e?style=for-the-badge&labelColor=0f172a" alt="Status" />
 </p>
 
 <br/>
 
 <!-- ABOUT -->
-<h2>👋 Hello there</h2>
+## 👋 About Me
 
 <table>
   <tr>
-    <td width="65%">
-      I'm <b>Zhameer Usman A. Abas IV</b>, a 4th year <b>Bachelor of Science in Nursing</b> student at <b>Ateneo de Davao University</b>.
+    <td width="60%" valign="top">
+      Hi! I'm <b>Zhameer</b>, a nursing student exploring design and digital tools on the side.
       <br/><br/>
-      This repository is my portfolio for <b>GE 4120 Elective</b>. It holds every laboratory activity and project I made for the course, from poster design and personal branding to infographics and a group presentation.
+      This repository is my portfolio for <b>GE 4120 Elective</b>. It collects every laboratory activity and project from the course: a poster, a personal brand kit, an infographic with documentation, and a group presentation.
     </td>
-    <td width="35%" align="center">
-      <img src="assets/activity2-4.jpg" width="100%" alt="Personal brand card" />
+    <td width="40%" valign="top">
+      <b>📛 Name</b><br/>Zhameer Usman A. Abas IV<br/><br/>
+      <b>🎓 Program</b><br/>BS Nursing, 4th Year<br/><br/>
+      <b>🏫 School</b><br/>Ateneo de Davao University
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- QUICK NAV -->
-<h2>🗂️ Activities at a Glance</h2>
+<!-- OVERVIEW -->
+## 🧭 Overview
 
 <div align="center">
 
-| No. | Activity | Format | Folder |
-|:---:|:---|:---:|:---:|
-| **01** | Presentation Design Principles | `PNG` | [**View →**](Activity%201) |
-| **02** | Personal Branding | `ZIP` | [**View →**](Activity%202) |
-| **03** | Social Media Infographic & Project Documentation | `PNG` `PDF` | [**View →**](Activity%203) |
-| **04** | Group Presentation: Google Sheets | `PDF` | [**View →**](Activity%204) |
+| | Activity | Topic | Format | |
+|:---:|:---|:---|:---:|:---:|
+| <img src="https://img.shields.io/badge/01-1e40af?style=flat-square" /> | **Presentation Design Principles** | Free Coffee Tuesday poster | `PNG` | [View](Activity%201) |
+| <img src="https://img.shields.io/badge/02-1e40af?style=flat-square" /> | **Personal Branding** | Brand identity kit | `ZIP` | [View](Activity%202) |
+| <img src="https://img.shields.io/badge/03-1e40af?style=flat-square" /> | **Infographic & Documentation** | Doom Scroll | `PNG` `PDF` | [View](Activity%203) |
+| <img src="https://img.shields.io/badge/04-1e40af?style=flat-square" /> | **Group Presentation** | Google Sheets | `PDF` | [View](Activity%204) |
 
 </div>
 
 <br/>
 
 <!-- ACTIVITY 1 -->
-<h2>🎨 Activity 01 · Presentation Design Principles</h2>
+## 🎨 Activity 01 &nbsp;|&nbsp; Presentation Design Principles
 
 <table>
   <tr>
-    <td width="40%" align="center">
+    <td width="42%" align="center">
       <img src="assets/activity1.jpg" width="100%" alt="Free Coffee poster" />
     </td>
-    <td width="60%">
-      <h3>Free Coffee Tuesday</h3>
-      An event poster for a free coffee booth at Arrupe Hall, built around core design principles: a clear visual hierarchy, a limited blue and cream palette, hand drawn illustrations, and a bold headline that reads from across the room.
+    <td width="58%" valign="top">
+      <h3>☕ Free Coffee Tuesday</h3>
+      An event poster for a free coffee booth at Arrupe Hall.
       <br/><br/>
-      <a href="Activity%201"><img src="https://img.shields.io/badge/Open%20Folder-0e1318?style=flat-square" alt="Open folder" /></a>
+      <b>Principles applied</b>
+      <ul>
+        <li>Clear visual hierarchy with a bold headline</li>
+        <li>Limited two color palette</li>
+        <li>Hand drawn illustrations for a friendly feel</li>
+        <li>Key details placed where the eye lands</li>
+      </ul>
+      <a href="Activity%201"><img src="https://img.shields.io/badge/Open%20Activity%2001-1e40af?style=for-the-badge" alt="Open" /></a>
     </td>
   </tr>
 </table>
 
-<!-- ACTIVITY 2 -->
-<h2>🪪 Activity 02 · Personal Branding</h2>
+<br/>
 
-<p>
-  <b>CONSUME.</b> A gritty, streetwear inspired brand identity with the tagline <i>"More is never enough."</i> The kit covers the logo mark, a black, gray and bright red palette, a three font typography system (Horizon, Bebas Neue, Chunk Five), and a personal contact card.
-</p>
+<!-- ACTIVITY 2 -->
+## 🪪 Activity 02 &nbsp;|&nbsp; Personal Branding
+
+A complete brand identity kit: logo, tagline, color palette, typography system and a personal contact card.
 
 <table>
   <tr>
-    <td align="center" width="25%"><img src="assets/activity2-1.jpg" width="100%" alt="Logo" /><br/><sub><b>LOGO</b></sub></td>
-    <td align="center" width="25%"><img src="assets/activity2-2.jpg" width="100%" alt="Tagline" /><br/><sub><b>TAGLINE</b></sub></td>
-    <td align="center" width="25%"><img src="assets/activity2-3.jpg" width="100%" alt="Palette and type" /><br/><sub><b>COLOR & TYPE</b></sub></td>
-    <td align="center" width="25%"><img src="assets/activity2-4.jpg" width="100%" alt="Contact card" /><br/><sub><b>CONTACT CARD</b></sub></td>
+    <td align="center" width="25%"><img src="assets/activity2-1.jpg" width="100%" alt="Logo" /><br/><sub><b>Logo</b></sub></td>
+    <td align="center" width="25%"><img src="assets/activity2-2.jpg" width="100%" alt="Tagline" /><br/><sub><b>Tagline</b></sub></td>
+    <td align="center" width="25%"><img src="assets/activity2-3.jpg" width="100%" alt="Color and type" /><br/><sub><b>Color & Type</b></sub></td>
+    <td align="center" width="25%"><img src="assets/activity2-4.jpg" width="100%" alt="Contact card" /><br/><sub><b>Contact Card</b></sub></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20-0e1318?style=for-the-badge" alt="#0e1318" />
-  <img src="https://img.shields.io/badge/%20-34383c?style=for-the-badge" alt="#34383c" />
-  <img src="https://img.shields.io/badge/%20-676969?style=for-the-badge" alt="#676969" />
-  <img src="https://img.shields.io/badge/%20-e2e2e2?style=for-the-badge" alt="#e2e2e2" />
-  <img src="https://img.shields.io/badge/%20-ff3131?style=for-the-badge" alt="#ff3131" />
-  <br/>
-  <a href="Activity%202"><img src="https://img.shields.io/badge/Open%20Folder-ff3131?style=flat-square" alt="Open folder" /></a>
+  <a href="Activity%202"><img src="https://img.shields.io/badge/Open%20Activity%2002-1e40af?style=for-the-badge" alt="Open" /></a>
 </p>
 
+<br/>
+
 <!-- ACTIVITY 3 -->
-<h2>📊 Activity 03 · Social Media Infographic & Project Documentation</h2>
+## 📊 Activity 03 &nbsp;|&nbsp; Infographic & Project Documentation
 
 <table>
   <tr>
-    <td width="60%">
-      <h3>Doom Scroll.</h3>
-      An infographic on doomscrolling: what it is, why the feed keeps you hooked, common triggers and warning signs, its impact on time and anxiety, and practical ways to break the habit. Backed by sources like Morning Consult and the WHO.
+    <td width="58%" valign="top">
+      <h3>📱 Doom Scroll.</h3>
+      A social media infographic about doomscrolling and why the feed is built to keep you hooked.
       <br/><br/>
-      Paired with a <b>Project Documentation</b> PDF that walks through the process behind the design.
+      <b>What it covers</b>
+      <ul>
+        <li>What doomscrolling is</li>
+        <li>Why it happens</li>
+        <li>Triggers and warning signs</li>
+        <li>Impact on time and anxiety</li>
+        <li>Practical ways to break the habit</li>
+      </ul>
+      Comes with a <b>Project Documentation</b> PDF showing the process behind the design.
       <br/><br/>
-      <a href="Activity%203"><img src="https://img.shields.io/badge/Open%20Folder-0e1318?style=flat-square" alt="Open folder" /></a>
+      <a href="Activity%203"><img src="https://img.shields.io/badge/Open%20Activity%2003-1e40af?style=for-the-badge" alt="Open" /></a>
     </td>
-    <td width="40%" align="center">
+    <td width="42%" align="center">
       <img src="assets/activity3.jpg" width="100%" alt="Doom Scroll infographic" />
     </td>
   </tr>
 </table>
 
+<br/>
+
 <!-- ACTIVITY 4 -->
-<h2>👥 Activity 04 · Group Presentation</h2>
+## 👥 Activity 04 &nbsp;|&nbsp; Group Presentation
 
 <p align="center">
-  <img src="assets/activity4.jpg" width="85%" alt="Google Sheets presentation cover" />
+  <img src="assets/activity4.jpg" width="88%" alt="Google Sheets presentation" />
 </p>
 
-<p>
-  <b>Google Sheets</b>, an interactive 25 slide presentation by Group 1 with clickable navigation across Home, Design, Layout and Animation sections.
-  <br/>
-  <sub>Group members: Abas, Caño, Jamonir, Mandi, Mendoza, Nagal, Osorio, Porras, Rapal</sub>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="Activity%204"><img src="https://img.shields.io/badge/Open%20Folder-ff3131?style=flat-square" alt="Open folder" /></a>
-</p>
+**Google Sheets** · Group 1
+
+An interactive 25 slide presentation with clickable navigation across Home, Design, Layout and Animation.
+
+<sub>Abas · Caño · Jamonir · Mandi · Mendoza · Nagal · Osorio · Porras · Rapal</sub>
+
+<br/><br/>
+
+<a href="Activity%204"><img src="https://img.shields.io/badge/Open%20Activity%2004-1e40af?style=for-the-badge" alt="Open" /></a>
+
+</div>
 
 <br/>
 
 <!-- STRUCTURE -->
-<h2>📁 Repository Structure</h2>
+## 📁 Repository Structure
 
 ```
 GE-4120-Elective/
@@ -139,15 +158,21 @@ GE-4120-Elective/
 ├── Activity 2/    Personal Branding
 ├── Activity 3/    Infographic & Project Documentation
 ├── Activity 4/    Group Presentation (Google Sheets)
-├── assets/        Preview images for this README
+├── assets/        README preview images
 └── README.md
 ```
 
+<br/>
+
 <!-- FOOTER -->
-<p align="center">
-  <b>Thank you for checking out my repository!</b>
-</p>
+<div align="center">
+
+**Thank you for checking out my repository!** 💙
+
+<a href="https://github.com/zh4m"><img src="https://img.shields.io/badge/GitHub-zh4m-0f172a?style=flat-square&logo=github" alt="GitHub" /></a>
+
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ff3131,100:0e1318&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:38bdf8,45:1e40af,100:0f172a&section=footer" width="100%" alt="" />
 </p>
