@@ -1,59 +1,43 @@
-<div align="center">
-
-# GE 4120 Elective
-
-21st Century IT Skills · Laboratory Activities & Projects
-
-<br/>
-
-**Zhameer Usman A. Abas IV**<br/>
-BS Nursing, 4th Year · Ateneo de Davao University
-
-<br/>
-
-![Course](https://img.shields.io/badge/GE%204120-000000?style=flat-square)
-![Activities](https://img.shields.io/badge/4%20Activities-000000?style=flat-square)
-
-</div>
-
-<br/>
-
-## About
-
-This repository is my portfolio for GE 4120 Elective. It collects the laboratory activities and projects I made for the course.
-
-<br/>
-
-## Contents
-
-| | Activity | Format |
-|:---:|:---|:---:|
-| 01 | [Presentation Design Principles](Activity%201) | PNG |
-| 02 | [Personal Branding](Activity%202) | ZIP |
-| 03 | [Infographic & Project Documentation](Activity%203) | PNG, PDF |
-| 04 | [Group Presentation](Activity%204) | PDF |
-
-<br/>
-
----
-
-### 01 &nbsp; Presentation Design Principles
-
-An event poster for a free coffee booth at Arrupe Hall, focused on hierarchy, a limited palette and clear information.
-
 <p align="center">
-  <img src="assets/activity1.jpg" width="420" alt="Free Coffee Tuesday poster" />
+  <img src="assets/banner.svg" width="100%" alt="GE 4120 Elective Portfolio by Zhameer Usman A. Abas IV" />
 </p>
 
-[View files →](Activity%201)
+<p align="center">
+  <a href="#01"><img src="https://img.shields.io/badge/01-Design%20Principles-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="01" /></a>
+  <a href="#02"><img src="https://img.shields.io/badge/02-Branding-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="02" /></a>
+  <a href="#03"><img src="https://img.shields.io/badge/03-Infographic-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="03" /></a>
+  <a href="#04"><img src="https://img.shields.io/badge/04-Group%20Presentation-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="04" /></a>
+</p>
 
 <br/>
 
----
+> This repository is my portfolio for **GE 4120 Elective**. It collects the laboratory activities and projects I made for the course, from poster design and personal branding to an infographic and a group presentation.
 
-### 02 &nbsp; Personal Branding
+<br/>
 
-A brand identity kit with a logo, tagline, color palette, typography system and contact card.
+<!-- 01 -->
+<h2 id="01"></h2>
+<a href="Activity%201"><img src="assets/card-01.svg" width="100%" alt="Activity 01: Presentation Design Principles" /></a>
+
+<table>
+  <tr>
+    <td width="45%" align="center"><img src="assets/activity1.jpg" width="100%" alt="Free Coffee Tuesday poster" /></td>
+    <td width="55%" valign="middle">
+      An event poster for a free coffee booth at Arrupe Hall.
+      <br/><br/>
+      <b>Focus</b><br/>
+      Visual hierarchy &nbsp;·&nbsp; Limited palette &nbsp;·&nbsp; Illustration &nbsp;·&nbsp; Clear information
+      <br/><br/>
+      <a href="Activity%201"><b>View files →</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 02 -->
+<h2 id="02"></h2>
+<a href="Activity%202"><img src="assets/card-02.svg" width="100%" alt="Activity 02: Personal Branding" /></a>
 
 <table>
   <tr>
@@ -62,44 +46,57 @@ A brand identity kit with a logo, tagline, color palette, typography system and 
     <td width="25%"><img src="assets/activity2-3.jpg" width="100%" alt="Color and type" /></td>
     <td width="25%"><img src="assets/activity2-4.jpg" width="100%" alt="Contact card" /></td>
   </tr>
+  <tr>
+    <td align="center"><sub><b>LOGO</b></sub></td>
+    <td align="center"><sub><b>TAGLINE</b></sub></td>
+    <td align="center"><sub><b>COLOR & TYPE</b></sub></td>
+    <td align="center"><sub><b>CONTACT CARD</b></sub></td>
+  </tr>
 </table>
 
-[View files →](Activity%202)
+<p align="right"><a href="Activity%202"><b>View files →</b></a></p>
 
 <br/>
 
----
+<!-- 03 -->
+<h2 id="03"></h2>
+<a href="Activity%203"><img src="assets/card-03.svg" width="100%" alt="Activity 03: Infographic and Documentation" /></a>
 
-### 03 &nbsp; Infographic & Project Documentation
-
-A social media infographic about doomscrolling, with a documentation PDF showing the design process.
-
-<p align="center">
-  <img src="assets/activity3.jpg" width="360" alt="Doom Scroll infographic" />
-</p>
-
-[View files →](Activity%203)
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      A social media infographic on doomscrolling: what it is, why the feed keeps you hooked, the warning signs, and practical ways to break the habit.
+      <br/><br/>
+      Paired with a <b>Project Documentation</b> PDF showing the design process.
+      <br/><br/>
+      <a href="Activity%203"><b>View files →</b></a>
+    </td>
+    <td width="45%" align="center"><img src="assets/activity3.jpg" width="100%" alt="Doom Scroll infographic" /></td>
+  </tr>
+</table>
 
 <br/>
 
----
-
-### 04 &nbsp; Group Presentation
-
-**Google Sheets**, an interactive 25 slide presentation by Group 1.
+<!-- 04 -->
+<h2 id="04"></h2>
+<a href="Activity%204"><img src="assets/card-04.svg" width="100%" alt="Activity 04: Group Presentation" /></a>
 
 <p align="center">
   <img src="assets/activity4.jpg" width="100%" alt="Google Sheets presentation cover" />
 </p>
 
-<sub>Abas · Caño · Jamonir · Mandi · Mendoza · Nagal · Osorio · Porras · Rapal</sub>
-
-[View files →](Activity%204)
+<p align="center">
+  An interactive 25 slide presentation by Group 1, with clickable navigation across Home, Design, Layout and Animation.
+  <br/>
+  <sub>Abas · Caño · Jamonir · Mandi · Mendoza · Nagal · Osorio · Porras · Rapal</sub>
+  <br/><br/>
+  <a href="Activity%204"><b>View files →</b></a>
+</p>
 
 <br/>
 
 ---
 
-<div align="center">
-<sub>Thank you for visiting.</sub>
-</div>
+<p align="center">
+  <sub>Thank you for visiting &nbsp;·&nbsp; <a href="https://github.com/zh4m">@zh4m</a></sub>
+</p>
