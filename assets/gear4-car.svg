@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300" width="600" height="300">
+  <style>
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 0.4s linear infinite; }
+    .road { animation: road 0.5s linear infinite; }
+    .bob { animation: bob 0.3s ease-in-out infinite alternate; }
+    .wind { animation: wind 0.45s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    @keyframes road { to { transform: translateX(-60px); } }
+    @keyframes bob { to { transform: translateY(-1.5px); } }
+    @keyframes wind { from { opacity: 0.9; } to { opacity: 0.1; } }
+  </style>
+  <rect width="600" height="300" rx="18" fill="#000"/>
+  <text x="28" y="46" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#8a8a8a">GEAR 04</text>
+  <text x="28" y="74" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f2f2f2">Group Presentation</text>
+  <rect x="0" y="252" width="600" height="2" fill="#3a3a3a"/>
+  <g class="road" fill="#5a5a5a"><rect x="0" y="262" width="30" height="3"/><rect x="60" y="262" width="30" height="3"/><rect x="120" y="262" width="30" height="3"/><rect x="180" y="262" width="30" height="3"/><rect x="240" y="262" width="30" height="3"/><rect x="300" y="262" width="30" height="3"/><rect x="360" y="262" width="30" height="3"/><rect x="420" y="262" width="30" height="3"/><rect x="480" y="262" width="30" height="3"/><rect x="540" y="262" width="30" height="3"/><rect x="600" y="262" width="30" height="3"/></g>
+  <g class="wind" stroke="#8a8a8a" stroke-width="2" stroke-linecap="round">
+    <line x1="-36.25" y1="190" x2="23.75" y2="190"/>
+    <line x1="-56.25" y1="208" x2="18.75" y2="208"/>
+    <line x1="-26.25" y1="226" x2="25.75" y2="226"/>
+  </g>
+  <g transform="translate(43.75,130.75) scale(1.25)">
+    <ellipse cx="205.0" cy="95" rx="205.0" ry="4" fill="#1c1c1c"/>
+    <g class="bob">
+    <path fill="#f2f2f2" d="M8,68 L10,52 L58,44 L140,40 Q196,20 244,18 L268,20 L396,48 Q408,52 408,60 L404,68 L356,68 A28 28 0 0 0 300,68 L120,68 A28 28 0 0 0 64,68 Z"/>
+    <path fill="#2b2b2b" d="M156,40 Q200,25 242,23 L262,24 L322,40 Z"/>
+    <path fill="#f2f2f2" d="M6,30 L60,26 L62,20 L4,24 Z"/>
+    <rect x="30" y="28" width="4" height="18" fill="#f2f2f2"/>
+    <path fill="#2b2b2b" d="M150,48 L200,46 L190,58 L156,58 Z"/>
+    <path d="M60,56 L390,54" stroke="#9a9a9a" stroke-width="1.2" fill="none"/>
+    <rect x="384" y="50" width="16" height="3" rx="1.5" fill="#8a8a8a"/>
+    <rect x="10" y="50" width="12" height="3" rx="1.5" fill="#6a6a6a"/>
+    
+  <circle cx="92" cy="68" r="23" fill="#111" stroke="#cfcfcf" stroke-width="3"/>
+  <g class="spin">
+    <circle cx="92" cy="68" r="13.34" fill="#7a7a7a"/>
+    <g stroke="#e8e8e8" stroke-width="3" stroke-linecap="round">
+      <line x1="92" y1="55.66" x2="92" y2="80.34"/>
+      <line x1="79.66" y1="68" x2="104.34" y2="68"/>
+      <line x1="82.662" y1="58.662" x2="101.338" y2="77.338"/>
+      <line x1="101.338" y1="58.662" x2="82.662" y2="77.338"/>
+    </g>
+    <circle cx="92" cy="68" r="3.5" fill="#111"/>
+  </g>
+  <circle cx="328" cy="68" r="23" fill="#111" stroke="#cfcfcf" stroke-width="3"/>
+  <g class="spin">
+    <circle cx="328" cy="68" r="13.34" fill="#7a7a7a"/>
+    <g stroke="#e8e8e8" stroke-width="3" stroke-linecap="round">
+      <line x1="328" y1="55.66" x2="328" y2="80.34"/>
+      <line x1="315.66" y1="68" x2="340.34" y2="68"/>
+      <line x1="318.662" y1="58.662" x2="337.338" y2="77.338"/>
+      <line x1="337.338" y1="58.662" x2="318.662" y2="77.338"/>
+    </g>
+    <circle cx="328" cy="68" r="3.5" fill="#111"/>
+  </g>
+    </g>
+  </g>
+</svg>

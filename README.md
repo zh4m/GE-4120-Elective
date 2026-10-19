@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td width="42%" align="center">
-      <img src="assets/activity1.jpg" width="100%" alt="Free Coffee poster" />
+      <img src="assets/gear1-car.svg" width="100%" alt="Gear 01 roadster" />
     </td>
     <td width="58%" valign="top">
       <h3>☕ Free Coffee Tuesday</h3>
@@ -86,14 +86,9 @@
 
 The paint job. A complete brand identity kit with a logo, tagline, color palette, typography system and a personal contact card.
 
-<table>
-  <tr>
-    <td align="center" width="25%"><img src="assets/activity2-1.jpg" width="100%" alt="Logo" /><br/><sub><b>Logo</b></sub></td>
-    <td align="center" width="25%"><img src="assets/activity2-2.jpg" width="100%" alt="Tagline" /><br/><sub><b>Tagline</b></sub></td>
-    <td align="center" width="25%"><img src="assets/activity2-3.jpg" width="100%" alt="Color and type" /><br/><sub><b>Color & Type</b></sub></td>
-    <td align="center" width="25%"><img src="assets/activity2-4.jpg" width="100%" alt="Contact card" /><br/><sub><b>Contact Card</b></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/gear2-car.svg" width="88%" alt="Gear 02 muscle car" />
+</p>
 
 <p align="center">
   <a href="Activity%202"><img src="https://img.shields.io/badge/Shift%20into%20Gear%2002-000000?style=for-the-badge" alt="Open" /></a>
@@ -123,7 +118,7 @@ The paint job. A complete brand identity kit with a logo, tagline, color palette
       <a href="Activity%203"><img src="https://img.shields.io/badge/Shift%20into%20Gear%2003-000000?style=for-the-badge" alt="Open" /></a>
     </td>
     <td width="42%" align="center">
-      <img src="assets/activity3.jpg" width="100%" alt="Doom Scroll infographic" />
+      <img src="assets/gear3-car.svg" width="100%" alt="Gear 03 rally car" />
     </td>
   </tr>
 </table>
@@ -134,7 +129,7 @@ The paint job. A complete brand identity kit with a logo, tagline, color palette
 ## ⚙️ Gear 04 &nbsp;|&nbsp; Group Presentation
 
 <p align="center">
-  <img src="assets/activity4.jpg" width="88%" alt="Google Sheets presentation" />
+  <img src="assets/gear4-car.svg" width="88%" alt="Gear 04 supercar" />
 </p>
 
 <div align="center">
@@ -162,7 +157,7 @@ GE-4120-Elective/
 ├── Activity 2/    Gear 2 · Personal Branding
 ├── Activity 3/    Gear 3 · Infographic & Project Documentation
 ├── Activity 4/    Gear 4 · Group Presentation (Google Sheets)
-├── assets/        Spare parts (README images)
+├── assets/        Spare parts (README car drawings)
 └── README.md      The owner's manual
 ```
 
