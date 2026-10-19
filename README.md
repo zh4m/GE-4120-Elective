@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="#01"><img src="https://img.shields.io/badge/01-Design%20Principles-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="01" /></a>
-  <a href="#02"><img src="https://img.shields.io/badge/02-Branding-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="02" /></a>
-  <a href="#03"><img src="https://img.shields.io/badge/03-Infographic-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="03" /></a>
-  <a href="#04"><img src="https://img.shields.io/badge/04-Group%20Presentation-0a0a0a?style=for-the-badge&labelColor=ffffff" alt="04" /></a>
+  <a href="#01"><img src="https://img.shields.io/badge/01-Design%20Principles-0b0b1a?style=for-the-badge&labelColor=6366f1" alt="01" /></a>
+  <a href="#02"><img src="https://img.shields.io/badge/02-Branding-0b0b1a?style=for-the-badge&labelColor=a855f7" alt="02" /></a>
+  <a href="#03"><img src="https://img.shields.io/badge/03-Infographic-0b0b1a?style=for-the-badge&labelColor=ec4899" alt="03" /></a>
+  <a href="#04"><img src="https://img.shields.io/badge/04-Group%20Presentation-0b0b1a?style=for-the-badge&labelColor=f97316" alt="04" /></a>
 </p>
 
 <br/>
