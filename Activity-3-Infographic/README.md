@@ -10,7 +10,7 @@ I made a social media infographic about doomscrolling, which is the habit of scr
 
 ## ❯ What have I learned?
 
-I learned how to turn research into something people can read quickly while scrolling, using short sections, big numbers and icons. The hard part was that I found way more statistics than I could fit. I ended up keeping only the strongest ones, like 53% of Gen Z adults saying they doomscroll, and put the rest in the report. As a nursing student, I see this as health teaching in visual form, so I could make similar handouts for patients about sleep or screen time.
+I learned how to turn research into something people can read quickly while scrolling, using short sections, big numbers and icons. The hard part was designing it so it looked unique but still clean, since infographics get crowded fast. I kept the layout simple with lots of white space, used only a few colors, and picked just the strongest numbers, like 53% of Gen Z adults saying they doomscroll. As a nursing student, I see this as health teaching in visual form, so I could make similar handouts for patients about sleep or screen time.
 
 ## ❯ Files
 

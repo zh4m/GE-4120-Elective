@@ -12,7 +12,7 @@ Our group made a 25 slide interactive presentation using Google Sheets instead o
 
 ## ❯ What have I learned?
 
-I didn't know Google Sheets could be used like this. We linked the sheets together so they work like buttons, and we used the cells as a grid to lay out each slide. The hardest part was keeping 25 slides consistent with nine people working on them. What helped was making one template with the menu bar first and copying it to every slide before anyone added content. Next time I'd use this to make a review game for my classmates, since everyone already has Sheets.
+I didn't know Google Sheets could be used like this. We linked the sheets together so they work like buttons, and we used the cells as a grid to lay out each slide. The challenge for me was the design, since we wanted it to look unique and fun but still minimal and easy to follow. We settled on one simple style and a fixed menu bar, then used that same template on every slide so all 25 looked consistent. Next time I'd use this to make a review game for my classmates, since everyone already has Sheets.
 
 ## ❯ Files
 
