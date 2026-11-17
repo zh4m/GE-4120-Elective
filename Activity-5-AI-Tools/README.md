@@ -1,4 +1,4 @@
-<img src="../assets/header-05.svg" width="100%" alt="Activity 5: AI Tools" />
+<img src="../assets/term/header-05.svg" width="100%" alt="Activity 5: AI Tools" />
 
 # Activity 5: AI Tools
 

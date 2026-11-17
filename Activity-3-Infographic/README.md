@@ -1,4 +1,4 @@
-<img src="../assets/header-03.svg" width="100%" alt="Activity 3: Infographic and Documentation" />
+<img src="../assets/term/header-03.svg" width="100%" alt="Activity 3: Infographic and Documentation" />
 
 # Activity 3: Infographic and Documentation
 

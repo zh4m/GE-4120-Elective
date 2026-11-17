@@ -1,4 +1,4 @@
-<img src="../assets/header-07.svg" width="100%" alt="Activity 7: Resume Generating" />
+<img src="../assets/term/header-07.svg" width="100%" alt="Activity 7: Resume Generating" />
 
 # Activity 7: Resume Generating
 

@@ -1,4 +1,4 @@
-<img src="../assets/header-06.svg" width="100%" alt="Activity 6: One Page Website" />
+<img src="../assets/term/header-06.svg" width="100%" alt="Activity 6: One Page Website" />
 
 # Activity 6: One Page Website
 

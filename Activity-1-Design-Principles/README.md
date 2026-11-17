@@ -1,4 +1,4 @@
-<img src="../assets/header-01.svg" width="100%" alt="Activity 1: Presentation Design Principles" />
+<img src="../assets/term/header-01.svg" width="100%" alt="Activity 1: Presentation Design Principles" />
 
 # Activity 1: Presentation Design Principles
 

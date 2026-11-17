@@ -1,4 +1,4 @@
-<img src="../assets/header-02.svg" width="100%" alt="Activity 2: Personal Branding" />
+<img src="../assets/term/header-02.svg" width="100%" alt="Activity 2: Personal Branding" />
 
 # Activity 2: Personal Branding
 

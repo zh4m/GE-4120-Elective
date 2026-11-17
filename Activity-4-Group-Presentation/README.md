@@ -1,4 +1,4 @@
-<img src="../assets/header-04.svg" width="100%" alt="Activity 4: Group Presentation" />
+<img src="../assets/term/header-04.svg" width="100%" alt="Activity 4: Group Presentation" />
 
 # Activity 4: Group Presentation
 
