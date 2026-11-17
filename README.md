@@ -1,56 +1,48 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <img src="assets/banner-light.svg" width="100%" alt="GE 4120 Portfolio, Zhameer Usman A. Abas IV" />
-</picture>
+<img src="assets/hero.svg" width="100%" alt="Hi, I'm zh4m. Here's my GE 4120 work." />
 
+<br/>
+
+<img src="assets/label-about.svg" height="46" alt="About me" />
+
+<table align="center"><tr><td align="center" width="900">
+<br/>
+<img src="https://github.com/zh4m.png?size=300" width="130" alt="Zhameer Usman A. Abas IV" />
+
+### Zhameer Usman A. Abas IV
+
+I'm a 4th year **BS Nursing** student (BSN 4D) at **Ateneo de Davao University**.<br/>
+This repo holds my lab activities and projects for GE 4120, a 21st Century IT Skills elective.
+
+🎮 Gaming &nbsp;&nbsp; 🛠️ PC repair and custom builds &nbsp;&nbsp; 🎨 Streetwear and graphic design &nbsp;&nbsp; 🩺 Nursing informatics
 <br/><br/>
-
-<p align="center">
-  <img src="https://github.com/zh4m.png?size=300" width="120" alt="Zhameer Usman A. Abas IV" />
-</p>
-
-<h3 align="center">Zhameer Usman A. Abas IV</h3>
-
-<p align="center">
-  Hi, I'm <b>zh4m</b>, a 4th year BS Nursing student (BSN 4D) at Ateneo de Davao University.<br/>
-  This repo holds my work for GE 4120, a 21st Century IT Skills elective.
-</p>
-
-<p align="center">
-  <sub>Gaming &nbsp;·&nbsp; PC repair and custom builds &nbsp;·&nbsp; Streetwear and graphic design &nbsp;·&nbsp; Nursing informatics</sub>
-</p>
+</td></tr></table>
 
 <br/>
 
-## Skills and tools
+<img src="assets/label-skills.svg" height="46" alt="Skills and tools" />
 
-- **Design:** visual hierarchy, color and type choices, layout for posters, infographics and slides
-- **Branding:** building a consistent identity with a logo, tagline, palette and fonts
-- **Research to visuals:** turning survey data into an infographic with cited sources
-- **Interactive presentations:** linked navigation inside Google Sheets
-- **Prompting AI:** writing specific prompts and comparing outputs across tools
-- **Web and docs:** making a one page website with AI, and organizing work on GitHub with Markdown
+<img src="assets/skills.svg" width="100%" alt="Design: hierarchy, color, type and layout. Branding: logo, palette, fonts and voice. Research to visuals: data into infographics. Interactive slides: linked navigation in Google Sheets. Prompting AI: specific prompts and compared outputs. Web and GitHub: a one page site, Markdown and repos." />
 
-<sub>Canva &nbsp;·&nbsp; Google Sheets &nbsp;·&nbsp; ChatGPT &nbsp;·&nbsp; Claude &nbsp;·&nbsp; GitHub &nbsp;·&nbsp; Markdown</sub>
+**Tools:** Canva · Google Sheets · ChatGPT · Claude · GitHub · Markdown
 
 <br/>
 
-## Activities
+<img src="assets/label-activities.svg" height="46" alt="Activities" />
 
 <p align="center">
-  <a href="Activity-1-Design-Principles"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-01-dark.svg" /><img src="assets/card-01-light.svg" width="49%" alt="Activity 1: Design Principles" /></picture></a>
-  <a href="Activity-2-Personal-Branding"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-02-dark.svg" /><img src="assets/card-02-light.svg" width="49%" alt="Activity 2: Personal Branding" /></picture></a>
+  <a href="Activity-1-Design-Principles"><img src="assets/card-01.svg" width="49%" alt="Activity 1: Design Principles" /></a>
+  <a href="Activity-2-Personal-Branding"><img src="assets/card-02.svg" width="49%" alt="Activity 2: Personal Branding" /></a>
 </p>
 <p align="center">
-  <a href="Activity-3-Infographic"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-03-dark.svg" /><img src="assets/card-03-light.svg" width="49%" alt="Activity 3: Infographic" /></picture></a>
-  <a href="Activity-4-Group-Presentation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-04-dark.svg" /><img src="assets/card-04-light.svg" width="49%" alt="Activity 4: Group Presentation" /></picture></a>
+  <a href="Activity-3-Infographic"><img src="assets/card-03.svg" width="49%" alt="Activity 3: Infographic" /></a>
+  <a href="Activity-4-Group-Presentation"><img src="assets/card-04.svg" width="49%" alt="Activity 4: Group Presentation" /></a>
 </p>
 <p align="center">
-  <a href="Activity-5-AI-Tools"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-05-dark.svg" /><img src="assets/card-05-light.svg" width="49%" alt="Activity 5: AI Tools" /></picture></a>
-  <a href="Activity-6-One-Page-Website"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-06-dark.svg" /><img src="assets/card-06-light.svg" width="49%" alt="Activity 6: One Page Website" /></picture></a>
+  <a href="Activity-5-AI-Tools"><img src="assets/card-05.svg" width="49%" alt="Activity 5: AI Tools" /></a>
+  <a href="Activity-6-One-Page-Website"><img src="assets/card-06.svg" width="49%" alt="Activity 6: One Page Website" /></a>
 </p>
 <p align="center">
-  <a href="Activity-7-Resume-Generating"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-07-dark.svg" /><img src="assets/card-07-light.svg" width="98.6%" alt="Activity 7: Resume Generating" /></picture></a>
+  <a href="Activity-7-Resume-Generating"><img src="assets/card-07.svg" width="98.6%" alt="Activity 7: Resume Generating" /></a>
 </p>
 
 <br/>
@@ -67,4 +59,4 @@
 
 <br/>
 
-<p align="center"><sub><a href="https://github.com/zh4m">@zh4m</a></sub></p>
+<p align="center"><sub>✦ made by <a href="https://github.com/zh4m">@zh4m</a> ✦</sub></p>
