@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/header-04-dark.svg" />
-  <img src="../assets/header-04-light.svg" width="100%" alt="Activity 4: Group Presentation" />
-</picture>
-
 # Activity 4: Group Presentation
 
 <p align="center"><img src="../assets/previews/04-slides.jpg" width="100%" alt="Google Sheets presentation cover" /></p>

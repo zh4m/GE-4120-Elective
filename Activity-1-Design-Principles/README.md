@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/header-01-dark.svg" />
-  <img src="../assets/header-01-light.svg" width="100%" alt="Activity 1: Presentation Design Principles" />
-</picture>
-
 # Activity 1: Presentation Design Principles
 
 <p align="center"><img src="../assets/previews/01-poster.jpg" width="420" alt="Free Coffee Tuesday poster" /></p>

@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/header-07-dark.svg" />
-  <img src="../assets/header-07-light.svg" width="100%" alt="Activity 7: Resume Generating" />
-</picture>
-
 # Activity 7: Resume Generating
 
 <p align="center"><img src="../assets/previews/07-resume.jpg" width="520" alt="Final resume" /></p>

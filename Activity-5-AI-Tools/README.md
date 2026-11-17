@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/header-05-dark.svg" />
-  <img src="../assets/header-05-light.svg" width="100%" alt="Activity 5: AI Tools" />
-</picture>
-
 # Activity 5: AI Tools
 
 <p align="center"><img src="../assets/previews/05-cars.jpg" width="100%" alt="Before and after images" /></p>

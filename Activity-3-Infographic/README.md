@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/header-03-dark.svg" />
-  <img src="../assets/header-03-light.svg" width="100%" alt="Activity 3: Infographic and Documentation" />
-</picture>
-
 # Activity 3: Infographic and Documentation
 
 <p align="center"><img src="../assets/previews/03-infographic.jpg" width="420" alt="Doom Scroll infographic" /></p>

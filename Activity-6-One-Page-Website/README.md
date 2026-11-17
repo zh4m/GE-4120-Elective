@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/header-06-dark.svg" />
-  <img src="../assets/header-06-light.svg" width="100%" alt="Activity 6: One Page Website" />
-</picture>
-
 # Activity 6: One Page Website
 
 <p align="center"><img src="../assets/previews/06-website.jpg" width="100%" alt="zh4m website home section" /></p>
