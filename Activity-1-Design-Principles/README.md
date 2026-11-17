@@ -6,13 +6,11 @@
 
 ## ❯ About the activity
 
-An event poster for **Free Coffee Tuesday**, a free coffee booth at Arrupe Hall. The goal was to apply basic design principles so people can get the what, when and where in a few seconds.
+For this activity I made a poster for a free coffee booth at Arrupe Hall, Booth 7. We had to apply the design principles we discussed in class so people could tell what the event is about in just a few seconds.
 
 ## ❯ What have I learned?
 
-- **Key concepts and skills:** I learned how visual hierarchy guides the eye. The biggest text carries the main message, then the date and place, then the small details. A limited palette of blue on cream kept everything looking like one piece.
-- **A challenge and how I solved it:** Fitting all the event details without crowding the illustration. I cut the text down to short lines and grouped related info together so the drawing still had room.
-- **How I can apply or improve this:** I can use the same hierarchy for health teaching posters and ward announcements, where people only glance for a few seconds.
+I learned that not everything on a poster should be the same size. The title should stand out the most, then the date and place, then the small details. I also kept the colors to just blue and cream so it wouldn't look messy. My biggest problem was fitting all the event info without covering the drawings, so I cut the text down to short lines and grouped the details together. I think I can use this when making health teaching posters for the ward, since people there usually just glance at them.
 
 ## ❯ Files
 

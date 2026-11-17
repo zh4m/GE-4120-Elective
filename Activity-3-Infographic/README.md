@@ -6,13 +6,11 @@
 
 ## ❯ About the activity
 
-A social media infographic on **doomscrolling**: what it is, why the feed keeps you hooked, the warning signs and how to break the habit. It comes with a written report backed by data from Morning Consult, the American Academy of Sleep Medicine and WHO Europe.
+I made a social media infographic about doomscrolling, which is the habit of scrolling through bad news for way too long. It explains what it is, why it's hard to stop, the warning signs and some ways to cut back. I also wrote a short report using data from Morning Consult, the American Academy of Sleep Medicine and WHO Europe.
 
 ## ❯ What have I learned?
 
-- **Key concepts and skills:** I learned how to turn research into something people can read while scrolling. That meant short sections, bold numbers and icons, all in one vertical flow.
-- **A challenge and how I solved it:** I found more statistics than one graphic could hold. I kept only the strongest numbers, like 53% of Gen Z adults doomscrolling, and left the rest for the report.
-- **How I can apply or improve this:** This is basically health teaching in visual form. I can use the same approach for patient handouts on topics like sleep hygiene or screen time.
+I learned how to turn research into something people can read quickly while scrolling, using short sections, big numbers and icons. The hard part was that I found way more statistics than I could fit. I ended up keeping only the strongest ones, like 53% of Gen Z adults saying they doomscroll, and put the rest in the report. As a nursing student, I see this as health teaching in visual form, so I could make similar handouts for patients about sleep or screen time.
 
 ## ❯ Files
 

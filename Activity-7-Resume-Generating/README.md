@@ -6,13 +6,11 @@
 
 ## ❯ About the activity
 
-One prompt, two AI tools. I asked **Claude** and **ChatGPT** for a one page staff nurse resume, compared them on structure, clarity, formatting and overall quality, then combined the best parts into my final version.
+For this activity I gave the same prompt to Claude and ChatGPT and asked both to write a one page resume for an entry level staff nurse job. Then I compared the two based on structure, clarity, formatting and overall quality, and made my own final version.
 
 ## ❯ What have I learned?
 
-- **Key concepts and skills:** The output depends a lot on how exact the requirements are. Same prompt, same content, but the two layouts came out very different.
-- **A challenge and how I solved it:** Neither version was perfect. Claude's was easier to scan, while ChatGPT's read more formal but left half the page empty. I took Claude's structure, wrote out the full hospital names and organized the skills by category.
-- **How I can apply or improve this:** I'll keep updating this resume as I finish my rotations and use it for real staff nurse applications. Checking the result against my own requirements is still my job, not the AI's.
+I learned that the result depends a lot on how clear my instructions are. Both tools got the same info, but the layouts came out really different. Neither one was perfect. Claude's was easier to read, while ChatGPT's sounded more formal but left half the page blank. So I combined them, using Claude's layout, spelling out the full hospital names and grouping my skills by category. I'll keep updating this resume as I finish my rotations and use it when I apply for staff nurse jobs.
 
 ## ❯ Files
 

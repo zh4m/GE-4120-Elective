@@ -6,15 +6,13 @@
 
 ## ❯ About the activity
 
-A 25 slide interactive presentation built entirely in **Google Sheets** by Group 1. A clickable menu links Home, Design, Layout and Animation, and the deck ends with an interactive activity called *Budget or Burado?*
+Our group made a 25 slide interactive presentation using Google Sheets instead of PowerPoint. It has a clickable menu for Home, Design, Layout and Animation, and it ends with a game we called *Budget or Burado?*
 
 <sub>Abas · Caño · Jamonir · Mandi · Mendoza · Nagal · Osorio · Porras · Rapal</sub>
 
 ## ❯ What have I learned?
 
-- **Key concepts and skills:** Google Sheets can do a lot more than tables. We used hyperlinks between sheets for navigation and treated the cells like a layout grid.
-- **A challenge and how I solved it:** Keeping 25 slides and nine members consistent. We made one template with a fixed navigation bar and copied it to every slide before adding content.
-- **How I can apply or improve this:** I can use the same setup for interactive review games or quizzes for classmates, since everyone already has Sheets.
+I didn't know Google Sheets could be used like this. We linked the sheets together so they work like buttons, and we used the cells as a grid to lay out each slide. The hardest part was keeping 25 slides consistent with nine people working on them. What helped was making one template with the menu bar first and copying it to every slide before anyone added content. Next time I'd use this to make a review game for my classmates, since everyone already has Sheets.
 
 ## ❯ Files
 

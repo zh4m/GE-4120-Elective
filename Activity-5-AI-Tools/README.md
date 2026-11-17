@@ -8,13 +8,11 @@
 
 ## ❯ About the activity
 
-Testing how much a better prompt changes an AI image in **ChatGPT**. I started with a vague prompt, rewrote it with specific details (a late 1990s Japanese sports coupe in deep metallic blue, two doors, low and wide stance, multi spoke wheels, rear spoiler), then compared both outputs on clarity, detail, accuracy and usefulness.
+In this activity I tested how much the prompt affects what ChatGPT makes. I first asked it to "generate a modern car", then rewrote the prompt with a lot more detail, asking for a late 1990s Japanese sports coupe in metallic blue. After that I compared the two images.
 
 ## ❯ What have I learned?
 
-- **Key concepts and skills:** The AI only knows what I tell it. Naming the era, color, body style and parts gave me exactly the type of car I pictured.
-- **A challenge and how I solved it:** The first prompt gave a plain grey sedan that looked like any car on the road. I solved it by writing the prompt like a spec sheet and listing every feature I wanted.
-- **How I can apply or improve this:** I'll start with detailed prompts from the beginning. I also need to check AI images closely, since they can add things I never asked for, like real logos or plates.
+The main thing I learned is that the AI only knows what you tell it. My first prompt gave me a plain grey sedan that looked like any car on the road. Once I listed the era, color, body style, wheels and spoiler, I got pretty much the car I had in mind. I also noticed the AI added things I never asked for, like a real brand logo and a license plate, so I need to check the output closely. From now on I'll be specific with my prompts from the start.
 
 ## ❯ Files
 

@@ -6,15 +6,13 @@
 
 ## ❯ About the activity
 
-A one page website for **zh4m**, my business idea for PC repair and custom gaming builds in Davao City. It has an about section, services, build packages, parts with prices, rates, FAQ and contact.
+I made a one page website for zh4m, a PC repair and custom gaming PC business idea here in Davao City. The site shows the services, build packages, parts with prices, rates, FAQs and how to contact the business.
 
 [**Live site →**](https://claude.ai/artifact/Gu851QT34LLmS4WjiyDfbL)
 
 ## ❯ What have I learned?
 
-- **Key concepts and skills:** Letting the AI ask me questions first worked better than one long prompt. I decided the concept, style and sections one at a time, and the result matched what I had in mind.
-- **A challenge and how I solved it:** I planned to use Replit, but the free plan only had a few AI credits a day and one published app. I switched to Claude and finished the site there.
-- **How I can apply or improve this:** AI made it fast, but I still had to pick the name, decide the look and check every price and detail. I'd add real photos and a booking form if I turn it into an actual business.
+What worked best was letting the AI ask me questions first instead of giving it one long prompt. That way I could decide the concept, style and sections one at a time, and the site ended up close to what I pictured. My plan was to use Replit, but the free plan only had a few AI credits a day and one published app, so I switched to Claude. Even with AI doing a lot, I still had to pick the name, choose the look and check that the prices made sense. If I turn this into a real business, I'd add real photos and a booking form.
 
 ## ❯ Files
 
