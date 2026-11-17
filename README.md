@@ -1,8 +1,8 @@
-<img src="assets/hero.svg" width="100%" alt="Hi, I'm zh4m. Here's my GE 4120 work." />
+<img src="assets/hero.svg" width="100%" alt="Terminal: whoami, zh4m. BS Nursing at Ateneo de Davao University, GE 4120 portfolio with 7 activities." />
 
 <br/>
 
-<img src="assets/label-about.svg" height="46" alt="About me" />
+<img src="assets/label-about.svg" height="40" alt="About me" />
 
 <table align="center"><tr><td align="center" width="900">
 <br/>
@@ -13,21 +13,21 @@
 I'm a 4th year **BS Nursing** student (BSN 4D) at **Ateneo de Davao University**.<br/>
 This repo holds my lab activities and projects for GE 4120, a 21st Century IT Skills elective.
 
-🎮 Gaming &nbsp;&nbsp; 🛠️ PC repair and custom builds &nbsp;&nbsp; 🎨 Streetwear and graphic design &nbsp;&nbsp; 🩺 Nursing informatics
+`gaming` &nbsp; `pc-repair` &nbsp; `custom-builds` &nbsp; `graphic-design` &nbsp; `streetwear` &nbsp; `nursing-informatics`
 <br/><br/>
 </td></tr></table>
 
 <br/>
 
-<img src="assets/label-skills.svg" height="46" alt="Skills and tools" />
+<img src="assets/label-skills.svg" height="40" alt="Skills and tools" />
 
 <img src="assets/skills.svg" width="100%" alt="Design: hierarchy, color, type and layout. Branding: logo, palette, fonts and voice. Research to visuals: data into infographics. Interactive slides: linked navigation in Google Sheets. Prompting AI: specific prompts and compared outputs. Web and GitHub: a one page site, Markdown and repos." />
 
-**Tools:** Canva · Google Sheets · ChatGPT · Claude · GitHub · Markdown
+**Tools:** `canva` `google-sheets` `chatgpt` `claude` `github` `markdown`
 
 <br/>
 
-<img src="assets/label-activities.svg" height="46" alt="Activities" />
+<img src="assets/label-activities.svg" height="40" alt="Activities" />
 
 <p align="center">
   <a href="Activity-1-Design-Principles"><img src="assets/card-01.svg" width="49%" alt="Activity 1: Design Principles" /></a>
@@ -59,4 +59,4 @@ This repo holds my lab activities and projects for GE 4120, a 21st Century IT Sk
 
 <br/>
 
-<p align="center"><sub>✦ made by <a href="https://github.com/zh4m">@zh4m</a> ✦</sub></p>
+<p align="center"><sub><code>❯ exit 0</code> &nbsp; made by <a href="https://github.com/zh4m">@zh4m</a></sub></p>
